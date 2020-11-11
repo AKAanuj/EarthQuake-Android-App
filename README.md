@@ -1,1 +1,1 @@
-# EarthQuake-Android-App
+# Earthquake-Android-App
